@@ -32,11 +32,11 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
 author = "Nuwa"                # You can also set author in post front matter individually
-subTitle = "A place for some of my thoughts."
+subTitle = "A place to put some of my anime, manga, and video game thoughts."
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = ""
+sourceURL = "https://github.com/nullcomment/nullcomment.github.io"
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
@@ -79,8 +79,9 @@ licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 # Comments
 # utterances, see: https://utteranc.es/
-# utterancesRepo = "*/*"
-# utterancesIssueTerm = "pathname"
+utterancesRepo = "nullcomment/nullcomment.github.io"
+utterancesIssueTerm = "pathname"
+utterancesLabel = "utterances_thread"
 
 # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
 # disqusShortname = "*********"
