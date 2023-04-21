@@ -32,7 +32,7 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
 author = "Nuwa"                # You can also set author in post front matter individually
-subTitle = "A place to put some of my anime, manga, and video game thoughts."
+subTitle = "A place to put some of my thoughts. SPOILERS, unless otherwise noted."
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
@@ -64,7 +64,7 @@ copyrightStartYear = "2022"
 
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
-description = "Null Comment - A small blog"
+description = "Null Comment"
 og = "/img/fairy.png"                                          # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage

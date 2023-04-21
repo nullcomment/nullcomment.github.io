@@ -1,0 +1,16 @@
+---
+title: "Thoughts on 86"
+date: 2023-04-20T23:43:02-04:00
+tags: ["text", "anime"]
+summary: "There's so much I didn't like but I can't stop thinking about it. 8/10"
+---
+
+- I don't like the death bait they did with the members of spearhead in ep 22, but thats a nitpick.
+- Happy ending was sorta cheesy but still really nice.
+- The music is really good, enough for me to ignore my usual distaste of sawano's engrish
+- The story was surprisingly unique and had feels in a way that I was totally caught off guard by. The dynamic of the "oppressor" (Lena as their commander) being the one who was left behind at the end of Part 1 felt pretty meaningful.
+- I don't think the narrative decision to pivot from the Republic/Lena and follow Spearhead into the federacy was the best one. The end of Part 1 felt like the perfect ending for the last five members of Spearheard. Free from their servitude, free from their burdens, and free from Lena, their oppressor, even if she was a humane one. I guess I was just hoping for a different story than what the author was telling.
+- DESPITE the previous bullet point, I do think it was a bold and pretty cool move for the story to abandon Lena and follow spearhead. I wish we got to see more of Lena's growth rather than a single flashback scene + timeskip, but I also appreciated seeing Spearhead never adjusting to normal life and not willing to accept simply chilling out. I think a lot of stories would've tried to show soldiers getting over their ptsd/attachedment to the battlefield, but 86 went all in on everyone's goals and determination to "reach the end" which I like. Typically I'd say that war is never good and stories glorifying war are out of touch, but with 86 I'm fine with it specifically because the enemy is an autonomous army - it's not humans killing each other, but uniting against a common inhuman enemy.
+- Lena being called "Queen" and "Bloody Regina" in Part 2 is cringe. There should've been a more subtle way to represent her character growth. I think her streak of red hair was enough - badass but not over the top. That and her demonstrated ability to navigate military politics are enough to show her growth.
+- Not a fan of Frederica - I get that she's supposed to be a parallel to Shin but I think her voice annoyed me a bit too much for me to like her. I also don't like her magical eyes that can see the past/future - felt like such a random and unnecessary power that never really affected the plot.
+- Shin's anger when he thought he was being left behind was mega feels. However, I don't like how quickly they "killed" the other members of Spearhead. Giving us a bit more time to come to terms with their death before they did in the next one would've made their "deaths" hit far harder.
