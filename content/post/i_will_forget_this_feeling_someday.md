@@ -1,7 +1,7 @@
 ---
 title: "I Will Forget This Feeling Someday"
 date: 2023-05-05T09:55:34-04:00
-draft: false
+tags: ["text", "novel"]
 summary: "The story isn't great, but the method it's told is fascinating and the dialogue carries some heavy feels. 8/10"
 ---
 
