@@ -1,7 +1,7 @@
 ---
 title: "Suzume"
 date: 2023-04-14T00:24:10-04:00
-tags: ["text", "anime"]
+tags: ["anime"]
 summary: "It's not another Your Name or Weathering with You. rururururu~ 9/10"
 ---
 

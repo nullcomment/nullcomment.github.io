@@ -2,7 +2,7 @@
 title: "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
 date: 2023-04-11T19:46:43-04:00
 draft: false
-tags: ["text", "anime"]
+tags: ["anime"]
 summary: "Cute funny parts were good. Serious drama parts were bad. 6/10"
 ---
 

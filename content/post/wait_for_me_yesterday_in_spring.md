@@ -2,7 +2,7 @@
 title: "Wait for Me Yesterday in Spring"
 date: 2023-05-23T19:42:17-04:00
 draft: false
-tags: ["text", "novel"]
+tags: ["novel"]
 summary: "Cool narrative structure going backwards. Some scenes were weird though. 7/10"
 ---
 
