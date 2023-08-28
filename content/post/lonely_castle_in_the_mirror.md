@@ -1,0 +1,19 @@
+---
+title: "Lonely Castle in the Mirror"
+date: 2023-08-27T16:48:31-04:00
+draft: false
+tags: ["anime", "novel"]
+summary: "Magical climax with a total flop of a post-credit scene. 7/10"
+---
+
+- I don't like stories about bullying. They tend to be a bit overbearing on the depression, and while I tend to like sad stories, bullying stories usually have more of an angry, aggressive sadness that I don't enjoy. So I was somewhat wary of *Lonely Castle in the Mirror* on first glance - a escapist fantasy where a bullied girl gets teleported to a magical castle together with other similarly hurt kids.
+- Music was great. carried the movie in a few parts that felt maybe cliche or weak
+	- Kagami no Kojou is magical and hopeful. the main melody is just so nice. vibe song with banger potential - too bad nobody on youtube is covering it. Basically everyone is only doing the main theme, merry-go-round, which is still nice but not my cup of tea.
+- Visuals are really pretty, but the background art is lacking. It's sort of understandable because this is a much more character-focused story than a world-focused story, but still. Disappointing that it was almost entirely just indoor scenes.
+- Each character didn't get enough screen time to flesh them out. When I read the book, I got a much better idea of each character's struggles and character development. The movie definitely cut some corners to get the main story through.
+	- Fat boy turned into comedic relief, which I'm not a huge fan of, but at the same time it showed that even in amongst a group of bullied shut-in kids, they were still willing to ostracize someone else. Maybe there was a better way of doing this, but maybe it was intentional to make the audience write him off as a joke as well? Perhaps I'm reading too far into this.
+	- Fuka's story was actually decent, the slideshow sequences did a good job revealing her struggle. Not much to say about her arc to be honest, clear cut tiger parents.
+	- The guys got way less focus in the movie (I think they even skipped the very first interaction that MC had in the castle, with Murakami and Game Dev boy.) Gamer boy + shogi boy's friendship was nice but once again not enough time building that friendship up - more scenes in the book made them feel more real, rather than side characters.
+	- Aki was the teacher. Oh my god I was so hype up when i figured it out. I'm glad i didn't read the whole book, because the moment in the theatre when they teased it and I latched onto the idea was magical. I honestly forget what made me realize but I always love these kinds of character reveals.
+- Rion + Sister was out of nowhere, I don't like the lack of foreshadowing. Sure the dollhouse was the same but felt like a totally random plot twist. It also violates my personal preference of keeping the magic magical - the castle is supposed to be mysterious, so revealing that it was all at the will of the sister of one of the kids? Why? It just makes thing less interesting.
+- The climax was great with Kokoro running along the stairs of light. Really pretty scene combined with the music. The actual ending of the movie sucked though. Rion keeping his memories was pure wish fulfilment cop-out. It was too convenient to save Kokoro. There should've been some kinda set up where they both like something and coincidentally meet up instead of just "oh he remembers and he's gonna be her dreamy transfer student". I think that goes against the entire point of Kokoro's character development - she's supposed to become more assertive for herself, yet the book decides instead to grant her cop-out wish from the very beginning of the book? Come on.
